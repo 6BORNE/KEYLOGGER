@@ -1,9 +1,1 @@
 
-
-instagram.com
-test.username.email@gmail.com
-ThisIsaTestPassword$$$
-
-[2020-12-23 20:38:24]
-IPv4: 192.168.56.1
-
